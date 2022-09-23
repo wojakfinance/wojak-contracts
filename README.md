@@ -1,1 +1,1 @@
-# wojak-contracts
+# wojak finance smart contracts
